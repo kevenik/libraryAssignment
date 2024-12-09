@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+
+}
+.hero {
+    background-image: url('https://images.hdqwalls.com/download/abstract-dark-colorful-digital-art-yi-3840x2160.jpg');
+    background-size: cover;
+    background-position: center;
+    color: rgb(70, 113, 188);
+    padding: 100px 0;
+}
+.team-img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}

@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+.hero {
+    background-image: url('https://th.bing.com/th/id/OIP.DaJG7BIMHkXwS40EUP5SPwHaEo?rs=1&pid=ImgDetMain');
+    background-size: cover;
+    background-position: center;
+    color: rgb(217, 33, 33);
+    
+    padding: 50px 0;
+    text-align: center;
+}
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
